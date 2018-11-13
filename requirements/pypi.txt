@@ -11,6 +11,9 @@ requests
 djangorestframework
 djangorestframework-filters
 
+# OAuth2
+django-oauth-toolkit
+
 # tests
 factory_boy
 django_nose
