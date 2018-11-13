@@ -1,0 +1,18 @@
+# Django
+django
+
+# Tools
+ipython
+django-click
+django-extensions
+
+# Rest
+requests
+djangorestframework
+djangorestframework-filters
+
+# tests
+factory_boy
+django_nose
+django_extensions
+coverage
