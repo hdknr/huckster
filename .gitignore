@@ -62,3 +62,6 @@ wordpress
 # schemaspy
 bin/*.jar
 bin/schemaspy
+
+# wily
+.wily
